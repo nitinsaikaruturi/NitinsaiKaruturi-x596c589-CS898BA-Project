@@ -1,0 +1,25 @@
+{
+  "hog_svm": {
+    "accuracy": 91.4,
+    "BMP2_f1": 0.86,
+    "BTR70_f1": 0.89,
+    "T72_f1": 0.99
+  },
+  "cnn_no_pipeline": {
+    "accuracy": 94.9,
+    "BMP2_f1": 0.92,
+    "BTR70_f1": 0.93,
+    "T72_f1": 1.0
+  },
+  "cnn_tuned": {
+    "accuracy": 99.5,
+    "BMP2_f1": 0.99,
+    "BTR70_f1": 1.0,
+    "T72_f1": 1.0
+  },
+  "best_hyperparams": {
+    "lr": 0.0001,
+    "batch_size": 16,
+    "dropout": 0.3
+  }
+}
