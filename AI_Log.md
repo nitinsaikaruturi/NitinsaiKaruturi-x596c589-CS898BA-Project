@@ -1,7 +1,7 @@
 # AI Usage Log
 
-**Course:** CS-898BA — Image Analysis and Computer Vision
-**Institution:** Wichita State University — Summer 2026
+**Course:** CS-898BA — Image Analysis and Computer Vision  
+**Institution:** Wichita State University — Summer 2026  
 **Student:** Nitinsai Karuturi | WSU ID: X596C589
 
 ---
