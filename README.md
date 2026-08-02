@@ -1,8 +1,8 @@
 # NitinsaiKaruturi-x596c589-CS898BA-Project
 
-**Author:** Nitinsai Karuturi
-**Course:** CS 898BA – Image Analysis and Computer Vision
-**Project:** Recognizing Vehicles in Radar Surveillance Images
+**Author:** Nitinsai Karuturi  
+**Course:** CS 898BA – Image Analysis and Computer Vision  
+**Project:** Recognizing Vehicles in Radar Surveillance Images  
 **Institution:** Wichita State University — Summer 2026
 
 ---
